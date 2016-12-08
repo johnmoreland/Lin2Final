@@ -1,0 +1,11 @@
+https://en.wikipedia.org/wiki/Gradient_descent
+https://en.wikipedia.org/wiki/Stochastic_gradient_descent
+https://en.wikipedia.org/wiki/Artificial_neural_network
+
+https://medium.com/learning-new-stuff/how-to-learn-neural-networks-758b78f2736e#.7od223fc4
+https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.f78h1wz4s
+https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.l0jn9mbeu
+https://medium.com/@allanmacgregor/machine-learning-a-simple-neural-network-81ffb5e6d869#.s4jqsfihb
+https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1#.cwyjclwcd
+
+https://www.youtube.com/watch?v=bxe2T-V8XRs
